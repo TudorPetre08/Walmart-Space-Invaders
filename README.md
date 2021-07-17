@@ -1,5 +1,5 @@
 # Walmart-Space-Invaders
-Space invaders
+Space invaders. Go to my Replit profile to view and play the game. Or, run this code in a kaboom.js repl.
 
 # Controls:
 
